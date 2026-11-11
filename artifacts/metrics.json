@@ -1,0 +1,47 @@
+{
+    "SVM (RBF Kernel)": {
+        "cv_mean_acc": 0.996039603960396,
+        "cv_std_acc": 0.004850474738184515,
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "SVM (Linear Kernel)": {
+        "cv_mean_acc": 1.0,
+        "cv_std_acc": 0.0,
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "Random Forest": {
+        "cv_mean_acc": 0.9781980198019802,
+        "cv_std_acc": 0.014535300927117367,
+        "train_acc": 1.0,
+        "test_acc": 0.9682539682539683,
+        "precision": 0.969488939740656,
+        "recall": 0.9682539682539683,
+        "f1_score": 0.9681818181818183
+    },
+    "Logistic Regression": {
+        "cv_mean_acc": 0.998019801980198,
+        "cv_std_acc": 0.003960396039603964,
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "K-Nearest Neighbors": {
+        "cv_mean_acc": 0.9484356435643564,
+        "cv_std_acc": 0.01915030657041825,
+        "train_acc": 1.0,
+        "test_acc": 0.9920634920634921,
+        "precision": 0.9924242424242424,
+        "recall": 0.9920634920634921,
+        "f1_score": 0.9920589903573453
+    }
+}
